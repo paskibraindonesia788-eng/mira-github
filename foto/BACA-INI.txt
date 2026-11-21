@@ -1,0 +1,10 @@
+Foto yang dipakai (semua format .jpg, sudah dikecilkan):
+
+  cover.jpg     -> latar halaman depan (vertikal)
+  hero.jpg      -> latar halaman "Kami Mengundang Anda"
+  reni.jpg      -> foto mempelai wanita (vertikal)
+  fajar.jpg     -> foto mempelai pria (vertikal)
+  galeri-1.jpg  -> galeri, tampil lebar (pakai foto landscape)
+  galeri-2.jpg sampai galeri-5.jpg -> galeri, vertikal
+
+Mau ganti foto? Timpa file dengan nama yang sama.

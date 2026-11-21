@@ -1,0 +1,22 @@
+ISI FOLDER
+  index.html   -> undangannya (buka ini)
+  reni.jpg, fajar.jpg, foto1-8 -> foto (nama jangan diganti)
+  musik/       -> taruh lagu: lagu-pernikahan-kita.mp3
+
+NAMA TAMU DI COVER
+  Tambahkan ?to=Nama di belakang link, contoh:
+  https://domainkamu.com/undangan/?to=Reni   (spasi ditulis %20)
+
+PENGATURAN (paling bawah index.html, cari "PENGATURAN")
+  WA_NUMBER -> nomor WA format 62..., RSVP tamu terkirim ke sini
+  BANK      -> isi bank, no, an. Kalau 'no' kosong, bagian Hadiah otomatis hilang
+  STORY     -> isi cerita cinta. Kalau kosong, bagian Perjalanan Kami otomatis hilang
+
+CATATAN
+  Buka lewat hosting/server, bukan klik ganda file, supaya musik dan font termuat.
+  Aksara Jawa di cover: ꦫꦺꦤꦶ ꦥꦗꦂ  (cek lagi ejaannya sebelum disebar).
+
+REVISI v3
+  - Background (foto/bg-top.jpg, bg-mid.jpg, bg-bot.jpg) tetap diam, isi undangan scroll di dalam kartu.
+  - "The Journey to Our Wedding Day": ubah cerita di STORY (index.html, bagian PENGATURAN).
+  - Amplop digital: ganti nomor rekening contoh di BANK sebelum undangan disebar.

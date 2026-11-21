@@ -1,0 +1,6 @@
+Taruh file lagu "Pernikahan Kita" di folder ini dengan nama persis:
+
+  lagu-pernikahan-kita.mp3
+
+Musik otomatis diputar saat tamu menekan "Buka Undangan", dan ada tombol ♪ untuk jeda/putar.
+Kalau file belum ada, tombol musik otomatis disembunyikan.
